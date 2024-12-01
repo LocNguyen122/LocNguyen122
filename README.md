@@ -47,15 +47,6 @@ Beyond my academic pursuits, I have worked on real-world projects in bioinformat
 
 ---
 
-## 🛠 Technical Skills  
-
-**Programming Languages**: Python, R, SQL  
-**Expertise**: Machine Learning, Deep Learning, Data Mining, Computer Vision, Statistical Analysis  
-**Tools**: R-Studio, Visual Studio Code, PowerBI, SPSS  
-**Operating Systems**: Linux, Windows  
-
----
-
 ## 📚 Publications  
 
 Access my full list of research papers on [Google Scholar](https://scholar.google.com/citations?user=ZBugPikAAAAJ&hl=en).  
